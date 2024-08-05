@@ -1,0 +1,17 @@
+body {
+    background-color: darkgrey;
+}
+
+h1 {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+fieldset {
+    width: 10%; 
+    padding: 20px; 
+    border: 5px solid #000; 
+    border-radius: 10px;
+    margin-top: 50px;
+    margin: 0 auto
+}
